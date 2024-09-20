@@ -63,3 +63,16 @@ The client application supports the following commands:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/distributed-file-system.git
+
+## Usage 
+  ufile sample.c ~smain/folder1/folder2
+  dfile ~smain/folder1/sample.pdf
+  rmfile ~smain/folder1/sample.txt
+  dtar .txt
+  display ~smain/folder1
+
+## License
+  
+This `README.md` provides clear guidance on the project, commands, and how to use the system. Let me know if you'd like any adjustments or additional sections!
+
+
