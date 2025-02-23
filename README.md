@@ -1,4 +1,4 @@
-# Distributed File System (COMP-8567 Project)
+# Distributed File System 
 
 This project implements a distributed file system using socket programming. It involves three servers (`Smain`, `Spdf`, and `Stext`) that work together to handle client file upload, download, and deletion requests based on file types (`.c`, `.pdf`, `.txt`). Clients interact solely with the `Smain` server, which transparently manages background file transfers to the other servers.
 
